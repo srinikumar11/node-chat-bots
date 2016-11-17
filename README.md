@@ -6,6 +6,8 @@
 
 `cd hangout-bot`
 
+`npm install`
+
 `cp config.json.sample config.json`
 
 `configure your gmail username password`
