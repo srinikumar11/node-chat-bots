@@ -1,0 +1,23 @@
+{
+  "name": "msa",
+  "version": "1.0.0",
+  "description": "MessageBot",
+  "main": "index.js",
+  "dependencies": {
+	  "hangouts-bot" : "0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Message",
+    "Bot",
+    "Hangouts",
+    "Skype",
+    "Facebook",
+    "Slack"
+  ],
+  "author": "Srini",
+  "license": "MIT"
+}
